@@ -18,7 +18,7 @@ requirements:
   needs
 
 ## Clone Repository
-- To cloe this Repository
+- To clone this Repository
 ```ymal
 git clone https://github.com/amankr1635/flytbase.git
 ```
