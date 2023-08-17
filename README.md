@@ -20,7 +20,7 @@ requirements:
 ## Clone Repository
 - To clone this Repository
 ```ymal
-git clone https://github.com/amankr1635/flytbase.git
+git clone https://github.com/amankr1635/droneManagement.git
 ```
 
 ## Installation
